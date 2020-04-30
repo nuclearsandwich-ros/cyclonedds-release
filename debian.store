@@ -1,1 +1,1 @@
-{"trim": "", "base": "6aea030", "trimbase": "", "parent": "debian/eloquent/cyclonedds", "previous": "6ffd0db"}
+{"base": "ae60e64", "parent": "debian/verystable/cyclonedds", "previous": "6b3bf91", "trim": "", "trimbase": ""}
